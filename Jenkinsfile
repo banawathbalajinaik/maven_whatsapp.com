@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh '''
                 rm -rf *
-                git clone 'https://github.com/banawathbalajinaik/maven_whatsapp.com.git'
+                git clone 'https://github.com/banawathbalajinaik/maven_clah_of-_clans.git'
                 '''
             }
         }
